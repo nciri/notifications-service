@@ -1,0 +1,10 @@
+configserver:
+  name: Docker Consul Service
+  status: Connected to Consul Server running in Docker
+
+jhipster:
+  security:
+    authentication:
+      jwt:
+        # secret key which should be base64 encoded and changed in production
+        base64-secret: NzdjYTRhYzRjODgwZmZmMmJjMjU0NDhmNzJiMTY1Y2FjMzlmYjAwMmQyMzBmNDYzMzc3ZThmMzU4OTQ1YzJkNGFjNWZhODEzYzI1M2JiMGVjNzc2NWY1ZjQ4YjM2N2UxOTAxZjU1MjM5ZjlkNTE1NTkzYTE2OTljMzZlYmU2ZmE=
